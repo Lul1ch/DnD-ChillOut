@@ -70,8 +70,23 @@
               "icon": "lucide-file",
               "title": "Волхв"
             }
+          },
+          {
+            "id": "d8fc4095a56decca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лесничий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лесничий"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,14 +259,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "d8fc4095a56decca",
   "lastOpenFiles": [
-    "Навыки персонажа.md",
+    "Гимн исцеления.md",
     "Лесничий.md",
+    "Навыки персонажа.md",
     "Волхв.md",
     "Навыки владения оружием.md",
     "Навыки владения бронёй.md",
-    "Гимн исцеления.md",
     "Волхв магии судьбы.md",
     "Колесо Сварога.md",
     "Переплёт.md",
