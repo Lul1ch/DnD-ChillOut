@@ -91,16 +91,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гимн исцеления.md",
+                "file": "Ведьма.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гимн исцеления"
+              "title": "Ведьма"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,22 +275,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "050419bb25dad5c3",
   "lastOpenFiles": [
-    "Скоморох.md",
+    "Волхв.md",
     "Ведьма.md",
+    "Скоморох.md",
+    "Лесничий.md",
+    "Гимн исцеления.md",
     "Ведьма проклятия клинка.md",
     "Ведьма проклятия безумной магии.md",
-    "Лесничий.md",
     "Классы.md",
     "Навыки владения оружием.md",
     "Навыки персонажа.md",
-    "Волхв.md",
     "Голем.md",
     "Лесничий пути мастера зверей.md",
     "Живые лозы.md",
     "Грозовое облако.md",
-    "Гимн исцеления.md",
     "Контрзаклинание.md",
     "Шквал ветра.md",
     "Магический щит.md",
