@@ -4,21 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "88f4ae217f45246e",
+        "id": "789494a05b587dec",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "e2979713d1aff3d5",
+            "id": "f4407f6a2c6e6d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Правила игры.md",
+                "file": "Ведьма проклятия безумной магии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Правила игры"
+              "title": "Ведьма проклятия безумной магии"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1452113b6da23c2",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "254f6a6f167337f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Справочник.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Справочник"
+            }
+          },
+          {
+            "id": "a150a715007cd910",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Навыки персонажа.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Навыки персонажа"
+            }
+          },
+          {
+            "id": "6f7dbe54bae54fb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ведун.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ведун"
+            }
+          },
+          {
+            "id": "d8fc4095a56decca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Волхв.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Волхв"
+            }
+          },
+          {
+            "id": "050419bb25dad5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ведьма проклятия клинка.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ведьма проклятия клинка"
             }
           }
         ]
@@ -41,7 +119,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -53,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "зель",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +141,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -164,52 +244,63 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "8646b44d30256d4f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
+      "switcher:Меню быстрого перехода": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e2979713d1aff3d5",
+  "active": "f4407f6a2c6e6d17",
   "lastOpenFiles": [
-    "Навигация.md",
-    "Правила игры.md",
-    "Расы.md",
-    "Боец.md",
-    "Лазутчик.md",
+    "Справочник.md",
+    "Туман в глазах.md",
+    "Ведьма проклятия безумной магии.md",
+    "Навыки персонажа.md",
+    "Ведьма проклятия клинка.md",
+    "Ведьма.md",
+    "Ошеломление.md",
+    "Навыки владения оружием.md",
+    "Волхв.md",
+    "Волхв магии судьбы.md",
+    "Ведьма проклятия котла.md",
+    "Шок.md",
+    "Тенистая хватка.md",
+    "Гниение.md",
+    "Кипение крови.md",
+    "Зелье.md",
+    "Ведун.md",
     "Классы.md",
-    "Священник.md",
-    "Священник слова света.md",
     "Лесничий.md",
     "Лесничий пути крови.md",
     "Лесничий пути следопыта.md",
     "Лесничий пути мастера зверей.md",
-    "Дружинник мастер боя.md",
-    "Волхв.md",
-    "Ведьма.md",
-    "Лазутчик хитрости воровства.md",
-    "Дружинник.md",
-    "Дружинник мастер щита.md",
-    "Ведьма проклятия котла.md",
-    "Зелье.md",
-    "Волхв магии льда.md",
-    "Волхв магии грома.md",
-    "Волхв магии природы.md",
-    "Волхв магии судьбы.md",
-    "Ячейка заклинаний.md",
-    "Мана.md"
+    "Гимн исцеления.md",
+    "Порча.md",
+    "Проклятие полиморфа.md",
+    "Скоморох.md"
   ]
 }
