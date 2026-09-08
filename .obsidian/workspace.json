@@ -134,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Выживан",
+                "query": "эксперт Реакции",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +155,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -277,8 +278,9 @@
   },
   "active": "f4407f6a2c6e6d17",
   "lastOpenFiles": [
-    "Лесничий.md",
+    "Ведьма.md",
     "Боец.md",
+    "Лесничий.md",
     "Навыки персонажа.md",
     "Навыки владения оружием.md",
     "Волхв.md",
@@ -287,7 +289,6 @@
     "Скоморох.md",
     "Справочник.md",
     "Испуг.md",
-    "Ведьма.md",
     "Ведьма проклятия безумной магии.md",
     "Истощение.md",
     "Паралич.md",
