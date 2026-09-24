@@ -6,7 +6,7 @@
       {
         "id": "789494a05b587dec",
         "type": "tabs",
-        "dimension": 49.89561586638831,
+        "dimension": 49.895615866388304,
         "children": [
           {
             "id": "f4407f6a2c6e6d17",
@@ -27,7 +27,7 @@
       {
         "id": "f1452113b6da23c2",
         "type": "tabs",
-        "dimension": 50.10438413361169,
+        "dimension": 50.104384133611696,
         "children": [
           {
             "id": "254f6a6f167337f9",
@@ -99,7 +99,8 @@
               "title": "Ведьма проклятия клинка"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,15 +275,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "d8fc4095a56decca",
   "lastOpenFiles": [
+    "Лесничий.md",
+    "Боец.md",
     "Справочник.md",
     "Сбивающее.md",
     "Правила игры.md",
-    "Боец.md",
     "Слом.md",
     "Оглушение.md",
-    "Лесничий.md",
     "Лесничий пути крови.md",
     "Навигация.md",
     "Навыки владения бронёй.md",
