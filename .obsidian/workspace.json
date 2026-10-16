@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Боец.md",
+                "file": "Навигация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Боец"
+              "title": "Навигация"
             }
           }
         ]
@@ -44,34 +44,6 @@
             }
           },
           {
-            "id": "a150a715007cd910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Навыки персонажа.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Навыки персонажа"
-            }
-          },
-          {
-            "id": "6f7dbe54bae54fb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Лесничий.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Лесничий"
-            }
-          },
-          {
             "id": "d8fc4095a56decca",
             "type": "leaf",
             "state": {
@@ -91,15 +63,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ведьма проклятия клинка.md",
+                "file": "Волхв.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ведьма проклятия клинка"
+              "title": "Волхв"
+            }
+          },
+          {
+            "id": "0bbca10b999222c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ведьма.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ведьма"
+            }
+          },
+          {
+            "id": "96180895a09e7dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лесничий.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лесничий"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Удач",
+                "query": "Ловкос",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -274,33 +275,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "96180895a09e7dbd",
   "lastOpenFiles": [
-    "Справочник.md",
-    "Боец.md",
-    "Свободное действие.md",
-    "Навыки персонажа.md",
-    "Лесничий.md",
-    "Сбивающее.md",
-    "Правила игры.md",
-    "Слом.md",
-    "Оглушение.md",
-    "Лесничий пути крови.md",
-    "Навигация.md",
-    "Навыки владения бронёй.md",
-    "Лесничий пути следопыта.md",
-    "Лесничий пути мастера зверей.md",
     "Ведьма.md",
-    "Волхв.md",
-    "Ведьма проклятия безумной магии.md",
-    "Ведьма проклятия клинка.md",
-    "Ведьма проклятия котла.md",
-    "Дружинник.md",
-    "Удар Бездны.md",
-    "Замедление.md",
-    "Создание персонажа.md",
-    "Ответное действие.md",
-    "Контрудар.md",
-    "Боец стиля боя толпой.md"
+    "Навигация.md",
+    "Боец.md",
+    "Лесничий пути мастера зверей.md",
+    "Заклинания лесничего, охотящегося с совой.md",
+    "Шквал ветра.md",
+    "Колчан волшебных стрел.md",
+    "Справочник.md",
+    "Завеса лесного сна.md",
+    "Навыки персонажа.md",
+    "Заклинания волхва.md",
+    "Оглушение.md",
+    "Магически заряженные ловушки.md",
+    "Подмена в листве.md",
+    "Пикирование призрачных крыльев.md",
+    "Воздушная западня.md",
+    "Перехват крыла.md",
+    "Взор с высоты.md",
+    "Когти сумерек.md",
+    "Цепкая поросль.md",
+    "Тихое крыло.md",
+    "Перо ночной охоты.md",
+    "Колесо Сварога.md",
+    "Сходящиеся письмена.md",
+    "очко действия.md",
+    "Приговор небес.md"
   ]
 }
