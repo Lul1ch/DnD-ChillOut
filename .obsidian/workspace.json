@@ -18,7 +18,7 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гоблины"
+              "title": "Навигация"
             }
           }
         ]
@@ -238,7 +238,7 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cca59b5498f57929",
+  "active": "f4407f6a2c6e6d17",
   "lastOpenFiles": [
     "Справочник.md",
     "Гоблины.md",
