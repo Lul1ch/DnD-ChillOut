@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гоблины.md",
+                "file": "Расы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навигация"
+              "title": "Расы"
+            }
+          },
+          {
+            "id": "2e3b55f1123a7141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Люди хуи на блюде.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Люди хуи на блюде"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "da9ac74343d3a2fd",
@@ -69,8 +84,7 @@
               "title": "Эльфы"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,9 +104,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -128,7 +140,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,20 +242,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "2e3b55f1123a7141",
   "lastOpenFiles": [
-    "Правила игры.md",
+    "Справочник.md",
+    "Люди хуи на блюде.md",
+    "Эльфы.md",
+    "Расы.md",
     "Навигация.md",
+    "Гоблины.md",
+    "Правила игры.md",
     "Создание персонажа.md",
     "Лесничий.md",
     "Штормовая преграда.md",
@@ -261,11 +279,6 @@
     "Разлом отражений.md",
     "Разговор с животными.md",
     "Провокация.md",
-    "Приговор небес.md",
-    "Превосходное сопряжение.md",
-    "Подмена в листве.md",
-    "Пляска марионеток.md",
-    "Плетение корней.md",
-    "Пикирование призрачных крыльев.md"
+    "Приговор небес.md"
   ]
 }
