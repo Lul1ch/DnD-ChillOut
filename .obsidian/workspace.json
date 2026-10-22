@@ -18,7 +18,7 @@
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навигация"
+              "title": "Гоблины"
             }
           }
         ]
@@ -69,7 +69,8 @@
               "title": "Эльфы"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -238,10 +239,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "f4407f6a2c6e6d17",
+  "active": "59afe54ca0280647",
   "lastOpenFiles": [
-    "Справочник.md",
     "Гоблины.md",
+    "Справочник.md",
     "Эльфы.md",
     "Ответное действие.md",
     "Навыки персонажа.md",
