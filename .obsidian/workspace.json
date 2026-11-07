@@ -4,67 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "da9ac74343d3a2fd",
+        "id": "71660433975dd0af",
         "type": "tabs",
         "children": [
           {
-            "id": "968bcaae080c6506",
+            "id": "16f6017cfcd7290b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фокусы Ведьмы.md",
+                "file": "Гоблины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фокусы Ведьмы"
+              "title": "Гоблины"
             }
           },
           {
-            "id": "f05f097f299f1203",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.14.5"
-            }
-          },
-          {
-            "id": "72e62eb2c64dd300",
+            "id": "0c9cf27792653128",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ведьма.md",
+                "file": "Эльфы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ведьма"
+              "title": "Эльфы"
             }
           },
           {
-            "id": "67af1cf8cdff98a3",
+            "id": "6e761ecf27ca3e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Волхв.md",
+                "file": "Ведун.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Волхв"
+              "title": "Ведун"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "a4856cda6e0218ac",
+        "id": "1e0573c7c3ec3228",
         "type": "tabs",
         "children": [
           {
@@ -82,17 +71,17 @@
             }
           },
           {
-            "id": "4c8c6eb7be27a9f5",
+            "id": "0be64ca8b23e42db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Фокусы Волхва.md",
+                "file": "Навыки персонажа.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Фокусы Волхва"
+              "title": "Навыки персонажа"
             }
           },
           {
@@ -110,17 +99,17 @@
             }
           },
           {
-            "id": "0be64ca8b23e42db",
+            "id": "52c8452428083ca2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Навыки персонажа.md",
+                "file": "Боец.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Навыки персонажа"
+              "title": "Боец"
             }
           }
         ],
@@ -293,34 +282,35 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "4c8c6eb7be27a9f5",
+  "active": "0be64ca8b23e42db",
   "lastOpenFiles": [
-    "Малая иллюзия.md",
+    "Ведун.md",
+    "Уровень заклинания.md",
+    "Зелье.md",
     "Навыки персонажа.md",
-    "Фокусы Волхва.md",
-    "Светоч проводника.md",
-    "Жар кузнечного горна.md",
-    "Фокусы Ведьмы.md",
-    "Волхв.md",
-    "Заклинания волхва.md",
-    "Отзвук спутника.md",
-    "Защитная черта.md",
-    "Ладонь Вихрогора.md",
-    "Глоссарий богов.md",
-    "Навигация.md",
-    "Искрящийся разряд.md",
-    "Морозный узор.md",
-    "Ведьма.md",
-    "Украденный крик.md",
     "Справочник.md",
-    "Проклятый долг.md",
-    "Прожорливые карманы.md",
-    "Стежок поперёк раны.md",
+    "Боец.md",
+    "Классы.md",
+    "Гоблины.md",
+    "История мира.md",
+    "Эльфы.md",
+    "У границы - Путешествие в земли Забытых Богов.md",
+    "Сценарии приключений.md",
+    "Навигация.md",
+    "Локсодоны.md",
+    "Шпага или рапира.md",
     "Шалость домового.md",
-    "Лоскутный оберег.md",
     "Чужая тень.md",
-    "Блуждающий уголёк.md",
-    "Хохот.md",
+    "Цеп.md",
+    "Фокусы Волхва.md",
+    "Фокусы Ведьмы.md",
+    "Украденный крик.md",
+    "Тяжёлый арбалет.md",
+    "Стежок поперёк раны.md",
+    "Серп.md",
+    "Секира.md",
+    "Светоч проводника.md",
+    "Текстовый документ.txt",
     "Без названия.base"
   ]
 }
